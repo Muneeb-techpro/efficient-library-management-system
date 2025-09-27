@@ -74,7 +74,7 @@ void Library::write(ostream& out)const
 {
 	out << "Total Book in Library :" << bookNum << endl;
 	out<<"-----------------------------------------------------------------"<<endl;
-	out << left << setw(20) << "Name"<< left << setw(15) << "Author"<< left << setw(15) << "\tPublishibg" << right << '\t'<< "Pages" <<endl;
+	out << left << setw(20) << "Name"<< left << setw(15) << "Author"<< left << setw(15) << "\tPublishing" << right << '\t'<< "Pages" <<endl;
 	out<<"-----------------------------------------------------------------"<<endl;
 	for (int i = 0; i < bookNum; i++)
 		out << bookArr[i] << endl;
