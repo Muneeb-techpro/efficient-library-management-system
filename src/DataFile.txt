@@ -1,0 +1,49 @@
+30
+Frankenstein  Shelley  1/1/1818  280
+Ulysses  Joyce  2/2/1922  730
+Siddhartha  Hesse  28/7/1922  152
+Lolita  Nabokov  3/9/1955  336
+Dracula  Stoker  26/5/1897  418
+Dune  Herbert  1/8/1965  412
+Beloved  Morrison  16/9/1987  324
+Emma  Austen  23/12/1815  474
+It  King  15/9/1986  1138
+Matilda  Dahl  1/10/1988  240
+Rebecca  DuMaurier  1/8/1938  416
+Persuasion  Austen  20/12/1817  249
+MobyDick  Melville  18/10/1851  635
+Inferno  Dante  8/5/1320  432
+Anthem  Rand  1/7/1938  128
+Carmilla  LeFanu  1/1/1872  108
+Jaws  Benchley  1/2/1974  311
+Solaris  Lem  1/6/1961  204
+Gilead  Robinson  4/11/2004  247
+Carrie  King  5/4/1974  199
+Misery  King  8/6/1987  310
+Blindness  Saramago  1/10/1995  352
+Choke  Palahniuk  11/8/2001  293
+Middlesex  Eugenides  4/9/2002  529
+Twelfth  Shakespeare  1/1/1602  72
+Tortilla  Steinbeck  1/1/1935  207
+Neuromancer  Gibson  1/7/1984  271
+1984  Orwell  8/6/1949  328
+Fahrenheit  Bradbury  19/10/1953  158
+JaneEyre  Bronte  16/10/1847  507
+17
+Ahmed
+Ayesha
+Bilal
+Fatima
+Hassan
+Imran
+Khadija
+Khalid
+Maryam
+Naveed
+Raza
+Sana
+Shahid
+Usman
+Zainab
+Ahsin
+Aslam
